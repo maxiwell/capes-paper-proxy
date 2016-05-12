@@ -17,9 +17,8 @@ Instalando
 Testando
 ----------
 
-1. De dentro de um lugar conveniado da CAPES, visite a página de um artigo
-no portal da ACM ou IEEE Xplorer.
-1. Com a mudança da CAPES, o botão para salvar fica inacessível acessando diretamente.  
+1. Visite a página de um artigo no portal da ACM ou IEEE Xplorer a partir de um lugar conveniado
+1. Com a mudança da CAPES, o botão 'salvar' fica inacessível quando se acessa diretamente
 1. Clique no botão desta extensão para recarregar a página usando o proxy da CAPES
 1. Agora o artigo poderá ser baixado como antes
 
