@@ -1,7 +1,7 @@
 Capes Paper Proxy
 ===============
 
-Plugin para recarregar uma pagina da ACM ou IEEE Xplorer com 
+Plugin para o Chrome que recarrega paginas da ACM ou IEEE Xplorer com 
 o proxy da ACM, podendo, assim, baixar os artigos de dentro de 
 universidades conveniadas.
 
