@@ -17,17 +17,11 @@ Instalando
 Testando
 ----------
 
-De dentro de um lugar conveniado da CAPES, visite a página de um artigo:
-
-``bash
-http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6391767
-``
-
-Percebe-se que o antigo botão de salvar está inacessível. Após clicar no botão 
-desta extensão, o artigo poderá ser baixado como antes. 
-
-Testado com ACM e IEEE Xplorer
-
+1. De dentro de um lugar conveniado da CAPES, visite a página de um artigo
+no portal da ACM ou IEEE Xplorer.
+1. Com a mudança da CAPES, o botão para salvar fica inacessível acessando diretamente.  
+1. Clique no botão desta extensão para recarregar a página usando o proxy da CAPES
+1. Agora o artigo poderá ser baixado como antes
 
 Disclaimer
 ----------
