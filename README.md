@@ -2,7 +2,7 @@ Capes Paper Proxy
 ===============
 
 Plugin para o Chrome que recarrega paginas da ACM ou IEEE Xplorer com 
-o proxy da ACM, podendo, assim, baixar os artigos de dentro de 
+o proxy da CAPES, podendo, assim, baixar os artigos de dentro de 
 universidades conveniadas.
 
 Instalando
