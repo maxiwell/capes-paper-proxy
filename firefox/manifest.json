@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+
+    "name": "CAPES Proxy",
+    "description": "This extension shows the original page with CAPES Proxy",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "logo-capes.png",
+        "default_popup": "popup.html"
+    },
+
+    "permissions": [
+        "activeTab",
+        "https://ajax.googleapis.com/"
+    ],
+
+    "applications": {
+        "gecko": {
+            "id": "capes-paper-proxy@mozilla.org",
+            "strict_min_version": "45.0"
+        }
+    }
+
+}
+
+
